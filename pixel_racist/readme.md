@@ -1,9 +1,9 @@
 ##[Pixel Racist Challenge](http://task-00001001.itrace.systems/racist.php) (70pts)
----
+
 >Task : Find the color with the least amount. and send post request with color parameters e.g. "color=fff000"
 
 ##Writeup
----
+
 `racist.php` will be generate new random pixel image with random color every time we doing a request.
 we have to find the color with the least amount
 
