@@ -1,13 +1,13 @@
 ##[Square Them](http://task-00000010.itrace.systems/square.php) (60pts)
 
-+ Precondition:
+> Precondition:
   + Max sum < 512
   + Each numbers is not equal
   + 10 Questions
   + Time limit 2 minutes
   + You know what to do ^_^
 
-+ Eample :
+> Eample :
   + Sum each Rows: 15
   + Sum each Cols: 15
   + Numbers (From Left to Right. First row to the last) : 2,9,4,7,5,3,6,1,8
@@ -33,4 +33,4 @@ X = N / 3
 ###"Python it and we've done"
 
 ##Flag :
-###ITRACE{m4g1c_squ4r3_is_s0_m4th}
+###`ITRACE{m4g1c_squ4r3_is_s0_m4th}`
