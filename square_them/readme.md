@@ -31,3 +31,6 @@ X = N / 3
 |N|  X-1  |  X+4  |  X-3  |
 
 ###python it and we've done.
+
+##Flag
+###ITRACE{m4g1c_squ4r3_is_s0_m4th}
